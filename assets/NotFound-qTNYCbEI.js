@@ -1,0 +1,1 @@
+import{B as e,R as t,_ as n,t as r}from"./states-xRmXHi7e.js";var i=t();function a(){let t=n();return(0,i.jsx)(`div`,{className:`page`,children:(0,i.jsx)(r,{title:`Страница не найдена`,text:(0,i.jsxs)(`p`,{children:[`Проверьте ссылку или вернитесь `,(0,i.jsx)(e,{to:t(`/`),children:`на стартовый экран`}),`.`]})})})}export{a as default};
