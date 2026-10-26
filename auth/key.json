@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "loginHash": "c94488690a187f92e8d6ad69490d3252dfb7fb44be2daeebd74d017256966376",
+  "salt": "CHSQ/mHdfp6MjrMkbclHUA==",
+  "iter": 600000,
+  "iv": "nNWaB6DiUhGXUYAA",
+  "wrappedKey": "du+vjClGYJZaFNF5UP8AFJ30qHh0MpHmSdBLZBfrMm44rUMCgo4ozT6/2Vgp7ttP",
+  "dataBytes": 477581,
+  "builtAt": "2026-10-26T18:50:40.903Z"
+}

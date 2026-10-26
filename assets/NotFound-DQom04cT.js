@@ -1,0 +1,1 @@
+import{U as e,_ as t,pt as n,t as r}from"./states-BI8cWk98.js";var i=e();function a(){let e=t();return(0,i.jsx)(`div`,{className:`page`,children:(0,i.jsx)(r,{title:`Страница не найдена`,text:(0,i.jsxs)(`p`,{children:[`Проверьте ссылку или вернитесь `,(0,i.jsx)(n,{to:e(`/`),children:`на стартовый экран`}),`.`]})})})}export{a as default};
